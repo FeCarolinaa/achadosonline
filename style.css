@@ -22,6 +22,18 @@ header{
     font-size: large;
 }
 
+.box{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.box h3{
+    color: orange;
+    margin-left: 90px;
+    
+}
+
 .faixa{
     display: flex;
     justify-content: center;
