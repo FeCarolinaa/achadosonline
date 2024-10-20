@@ -46,16 +46,90 @@ header{
     
 }
 
-/*_________________________________*/
+/*_______________MAIN__________________*/
 
 main{
-    height: calc(100vh - 250px);
+    background-color: #160f6c;
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    width: 100%;
+}
+
+
+
+.mercado-livre{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    
+    width: 30%;
+    margin-top: 10px;
+    padding: 5px;
+    border: 2px solid yellow;
 
 }
+
+.shopee{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    
+    width: 30%;
+    margin-top: 10px;
+    padding: 5px;
+    border: 2px solid orange;
+}
+
+.magalu{
+    background-color: white;
+    width: 30%;
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid blue;
+}
+
+.mini-header{
+    background-color: #fee600;
+    width: 100%;
+}
+
+.content{
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 5px;
+}
+
+.produto{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: flex-start;
+    align-items: last center;
+    
+    
+}
+
+.produto img{
+    height: 100px;
+    
+}
+
+.produto a{
+    text-decoration: none;
+}
+
+
 
 /*________________________________*/
 
 footer{
+    margin-top: 20px;
     background-color: #160f6c;
     height: 50px;
     text-align: center;

@@ -1,0 +1,39 @@
+<div class="produto">
+                <img src="produtos/Captura de tela 2024-10-19 202933.png" alt="">
+                <a href="https://mercadolivre.com/sec/1QfEctX">Chaleira Elétrica Atacama 1,8l - Unitermi 127V</a>
+            </div>
+
+            <div class="produto">
+                <img src="produtos/cook.jpg" alt="">
+                <a href="https://mercadolivre.com/sec/2PNZAwZ">Fogão Cooktop 5 bocas Preto Gás Mueller - 127V/220V</a>
+            </div>
+
+            <div class="produto">
+                <img src="produtos/Captura de tela 2024-10-19 202933.png" alt="">
+                <a href="https://mercadolivre.com/sec/1QfEctX">Chaleira Elétrica Atacama 1,8l - Unitermi 127V</a>
+            </div>
+
+            <div class="produto">
+                <img src="produtos/cook.jpg" alt="">
+                <a href="https://mercadolivre.com/sec/2PNZAwZ">Fogão Cooktop 5 bocas Preto Gás Mueller - 127V/220V</a>
+            </div>
+
+            <div class="produto">
+                <img src="produtos/Captura de tela 2024-10-19 202933.png" alt="">
+                <a href="https://mercadolivre.com/sec/1QfEctX">Chaleira Elétrica Atacama 1,8l - Unitermi 127V</a>
+            </div>
+
+            <div class="produto">
+                <img src="produtos/cook.jpg" alt="">
+                <a href="https://mercadolivre.com/sec/2PNZAwZ">Fogão Cooktop 5 bocas Preto Gás Mueller - 127V/220V</a>
+            </div>
+
+            <div class="produto">
+                <img src="produtos/Captura de tela 2024-10-19 202933.png" alt="">
+                <a href="https://mercadolivre.com/sec/1QfEctX">Chaleira Elétrica Atacama 1,8l - Unitermi 127V</a>
+            </div>
+
+            <div class="produto">
+                <img src="produtos/cook.jpg" alt="">
+                <a href="https://mercadolivre.com/sec/2PNZAwZ">Fogão Cooktop 5 bocas Preto Gás Mueller - 127V/220V</a>
+            </div>
